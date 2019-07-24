@@ -1,3 +1,3 @@
 # hello_world
-This is my first repository
-I want something different.
+This is my first repository.
+I like watermelons.
